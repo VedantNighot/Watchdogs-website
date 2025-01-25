@@ -1,2 +1,2 @@
-# Watchdogs-website
-gaming site
+# Game-website
+Welcome to the Game-Website repository! 
